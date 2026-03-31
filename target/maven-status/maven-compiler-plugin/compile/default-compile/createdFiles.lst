@@ -1,0 +1,7 @@
+Main.class
+model\ItemPedido.class
+service\LojinhaService.class
+model\Cliente.class
+model\Pedido.class
+model\Produto.class
+service\PagamentoGateway.class
